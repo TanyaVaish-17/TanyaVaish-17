@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on **MediSage** – a comprehensive DigiLocker-like medical document management system that allows users to securely store medical documents, prescriptions, and reports while leveraging    AI to provide personalized health insights, lifestyle recommendations, and insurance suggestions.
+- 🔭 I’m currently working on **GolfGives** – A subscription-based golf platform combining performance tracking, monthly prize draws, and charitable giving.
 - 🌱 I’m learning **JavaScript, React**  
 - 👯 I’m looking to collaborate on **Open Source and React-based projects**  
 - 💡 Goals: Build full-stack apps & contribute to impactful tools  
