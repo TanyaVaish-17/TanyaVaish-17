@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Tanya Vaish — Full-Stack Developer" width="100%"/>
+<img src="./assets/header.svg" alt="Tanya Vaish — Full Stack Developer" width="100%"/>
 
 <br/>
 
@@ -27,10 +27,6 @@
   <img src="./assets/about-terminal.svg" alt="About Tanya — terminal card" width="100%"/>
 </div>
 
-<br/>
-
-> 🎓 B.Tech CSE at **KIET Group of Institutions**, class of 2028 · ☁️ **AWS Certified Cloud Practitioner** · 🌍 **Aspire Leaders** & **McKinsey Forward** programme selectee · 🧑‍🏫 Technical Coordinator at **ZenYukti**
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
@@ -40,11 +36,13 @@
     <td width="50%" align="center">
       <a href="https://github.com/TanyaVaish-17/KisanSathi"><img src="./assets/project-kisansathi.svg" alt="KisanSathi" width="100%"/></a>
       <br/>
+      <a href="https://kisan-sathi-bay.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-34d399?style=for-the-badge&logo=vercel&logoColor=white" alt="KisanSathi live"/></a>
       <a href="https://github.com/TanyaVaish-17/KisanSathi"><img src="https://img.shields.io/badge/SOURCE_CODE-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="KisanSathi repo"/></a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/TanyaVaish-17/ORCA"><img src="./assets/project-orca.svg" alt="ORCA" width="100%"/></a>
       <br/>
+      <a href="https://orca-teal-nine.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="ORCA live"/></a>
       <a href="https://github.com/TanyaVaish-17/ORCA"><img src="https://img.shields.io/badge/SOURCE_CODE-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="ORCA repo"/></a>
     </td>
   </tr>
@@ -63,12 +61,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-**⛳ Also building: [GolfGives](https://github.com/TanyaVaish-17/golf-charity-platform)** — Next.js 14 · Supabase · Stripe subscription platform for Stableford score tracking, monthly prize draws and charity giving.
-
-</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -94,7 +86,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanyaVaish-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanyaVaish-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaVaish-17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=TanyaVaish-17&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=f472b6&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak"/>
