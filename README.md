@@ -42,7 +42,7 @@
     <td width="50%" align="center">
       <a href="https://github.com/TanyaVaish-17/ORCA"><img src="./assets/project-orca.svg" alt="ORCA" width="100%"/></a>
       <br/>
-      <a href="https://orca-teal-nine.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="ORCA live"/></a>
+      <a href="https://marvo-red.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="ORCA live"/></a>
       <a href="https://github.com/TanyaVaish-17/ORCA"><img src="https://img.shields.io/badge/SOURCE_CODE-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="ORCA repo"/></a>
     </td>
   </tr>
