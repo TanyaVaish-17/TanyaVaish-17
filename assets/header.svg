@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Tanya Vaish, Full Stack Web Developer">
+<defs>
+<linearGradient id="nm" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0">
+<stop offset="0" stop-color="#d9d4c9"/><stop offset=".42" stop-color="#d9d4c9"/><stop offset=".5" stop-color="#fff6e6"/><stop offset=".58" stop-color="#d9d4c9"/><stop offset="1" stop-color="#d9d4c9"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-260 0;-260 0;760 0;760 0" keyTimes="0;.1;.6;1" dur="9s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="hl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d6a572" stop-opacity="0"/><stop offset=".5" stop-color="#d6a572"/><stop offset="1" stop-color="#d6a572" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="258" rx="16" fill="#0e0f11" stroke="#2a2c30"/>
+<rect x="300" y="52" width="600" height="1" fill="url(#hl)"><animate attributeName="width" values="0;600" dur="1.6s" fill="freeze"/><animate attributeName="x" values="600;300" dur="1.6s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2727;1" dur="1.10s" fill="freeze"/><text x="600" y="140" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="12" fill="url(#nm)">TANYA VAISH</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5294;1" dur="1.70s" fill="freeze"/><text x="600" y="190" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" letter-spacing="8" fill="#d6a572">FULL STACK WEB DEVELOPER</text></g>
+<rect x="300" y="214" width="600" height="1" fill="url(#hl)"><animate attributeName="width" values="0;600" dur="1.6s" fill="freeze"/><animate attributeName="x" values="600;300" dur="1.6s" fill="freeze"/></rect>
+</svg>
